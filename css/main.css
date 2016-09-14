@@ -713,7 +713,11 @@ a {
     }
 }
 
-@media screen and (max-width: 970px) {
+@media screen and (max-width: 760px) {
+    .b-header__logo-text{
+        font-size: 34px;
+    }
+    
     .b-about__item {
         float: none;
         margin: auto;
