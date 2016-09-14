@@ -1,0 +1,20 @@
+.f-clear:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.f-clear:before{
+	content: "";
+	display: table;
+	clear: both;
+}
+.l-container:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.l-container:before{
+	content: "";
+	display: table;
+	clear: both;
+}
